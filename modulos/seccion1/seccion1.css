@@ -1,0 +1,32 @@
+.seccion1{
+    padding: 0 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.seccion1 .textos{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 15px; 
+}
+.Titulo{
+    font-size: 37px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.descripcion{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn1{
+    width: 100%;
+    border: 1px solid #486284;
+    border-radius: 30px;
+    padding: 20px;
+    margin-top: 30px;
+
+    font-size: 16px;
+    color: #486284;
+
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+}
